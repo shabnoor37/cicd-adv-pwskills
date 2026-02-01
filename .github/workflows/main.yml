@@ -22,4 +22,4 @@ jobs:
 
       - name: run unit test
         run: |
-          python test_calculator.py
+          python test/test_calculator.py
